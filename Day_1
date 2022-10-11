@@ -1,0 +1,35 @@
+let x = "Masai School";
+let y = "A Transformation in Education";
+console.log(x);
+console.log(y);
+
+let name = "sudhanshu";
+ console.log(name);
+
+name = "sampat sinha";
+console.log(name);
+name = "sristy sinha";
+console.log(name);
+
+
+let name =  "sudhanshu";
+let age = 21;
+console.log(typeof (name));
+console.log(typeof (age));
+
+let name = "sudhanshu";
+let school = "Rajendra vidyalaya";
+let grade = "A";
+let roll = "01";
+let english = 89;
+let math = 63;
+let science = 93
+
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(roll);
+console.log(english);
+console.log(math);
+console.log(science);
+
